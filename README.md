@@ -1,6 +1,7 @@
+Hi, I'm Hafsah 👋
+DevOps & Software Engineer | AWS Certified | Python | Terraform | Docker
 
-Hi I'm Hafsah, Welcome to my page
-- 🕊 I'm a DevOps & Software engineer, proficient in AWS, Python, Terraform and Docker
-- 🎨 I’m looking to collaborate on: Anything DevOps, Cloud and Software Engineering
-- 📫 You can contact me by email hafsahrobleh22@gmail.com
-    
+🚀 Passionate about building scalable, cloud-native solutions
+🤝 Open to collaboration on DevOps, Cloud, and Backend Projects
+📬 Reach me at hafsahrobleh22@gmail.com
+🔗 Check out my portfolio: https://medium.com/@hafsah.robleh 
